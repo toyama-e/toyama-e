@@ -1,16 +1,45 @@
-## Hi there 👋
+## プロフィール
 
-<!--
-**toyama-e/toyama-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+前職では医療現場で多職種と連携しながら、相手の状況や意図を正確に理解し、認識ズレが起きないよう調整する役割を担ってきました。  
+この経験を通じて培った「ユーザー理解」と「実行力」を、ユーザーファーストなプロダクト開発に活かしたいと考え、Webエンジニアへの転身を決意しました。
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 開発中・制作実績
+
+### 🏯 いさんぽJAPAN
+世界遺産を「知る・行く・記録する」体験をつなぐWebアプリです。
+
+- 世界遺産一覧・詳細表示
+- 地図表示
+- 訪問記録・バッジ獲得機能
+
+👉 リポジトリ：  
+（ここに いさんぽJAPAN のGitHubリンクを後で貼る）
+
+---
+
+## 技術スタック
+
+- Frontend：Next.js / TypeScript
+- Backend：FastAPI / Python
+- Database：PostgreSQL（Supabase）
+- Auth：Firebase Authentication
+
+---
+
+## 大切にしていること
+
+- 利用者や関係者の背景を理解したうえで、要件や仕様を整理すること
+- 認識ズレや想定外が起きにくい設計を心がけること
+- 限られた時間や条件の中でも、優先順位を判断して実装を進めること
+
+## 学習・取り組み姿勢
+
+未経験の領域に取り組む際は、日々の振り返りと小さな目標設定を繰り返しながら、理解を積み上げていくことを大切にしています。  
+新しい技術に対しても、自ら学び続け、チームの成果につながる形でアウトプットすることを意識しています。
+
+---
+
+※ 現在も学習・改善を続けています。
