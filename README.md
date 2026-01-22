@@ -15,9 +15,14 @@
 
 ---
 
-## 🛠 技術スタック (Tech Stack)
+## 🛠 技術スタック
 
 - **Languages:** TypeScript, Python, JavaScript
 - **Frameworks:** Next.js, FastAPI
 - **Tools:** Docker, Git-flow, Pytest
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyama-e&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=toyama-e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
