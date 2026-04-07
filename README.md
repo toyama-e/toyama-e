@@ -1,49 +1,70 @@
-# こんにちは、Erika Toyama です 👋
-> 看護師15年 → エンジニア | 確実な遂行力 × ユーザー視点でコードを書いています
+# Erika Toyama 👋
+> 看護師15年 → エンジニアを目指して学習中 | 現場叩き上げの遂行力 × 使う人を考えるUX設計
 
 ---
 
 ## About Me
 
-15年間の看護師経験を経て、エンジニアへキャリアチェンジ。  
-現場で培った **「確実な遂行力」** と、患者さんへの寄り添いから生まれた **「ユーザー視点」** を軸に、  
-使いやすいプロダクトを作ることを大切にしています。
+15年間の看護師経験を通じて、**緊急時でも判断・実行する力**と  
+**相手の状態を読み取るコミュニケーション力**を培いました。  
+
+エンジニアを目指している今も、この2つを武器に  
+「動くだけでなく、使われるプロダクト」を作ることにこだわっています。
+
+- 🏥 看護師15年 → 💻 エンジニア転職活動中
+- 🎓 Ms.Engineer（女性向けオンラインプログラミングブートキャンプ）卒業（2026年1月）
+- 🎯 得意：要件を正確に実装する遂行力・非エンジニア向けUX設計
+- 📍 新潟県在住 / リモート対応可
 
 ---
 
 ## Projects
 
 ### 💻 三条ものづくりノート
-> 新潟県三条市の子どもたちのものづくり体験を「Before → Process → After」で記録し、  
-> 簡単操作でショート動画を自動編集するデジタルポートフォリオアプリ。  
-> 単発で終わりがちなものづくり体験を「物語」として蓄積し、自己成長と郷土愛を育む。
+> 新潟県三条市の小学生向け、ものづくり体験デジタルポートフォリオアプリ  
+> 「Before → Process → After」で体験した画像と動画をアップロードし、FFmpegでショート動画を自動生成。
 
 - **Stack:** Next.js · FastAPI · TypeScript · Docker · Vertex AI (Gemini 2.5 Flash) · GCS · FFmpeg
-- **こだわり:** 小学5年生が直感的に使えるUX設計 × FFmpegによる動画自動編集
-- **役割:** 開発チームメンバー（新潟県三条市「AIを活用したアイデア発表会」 2026/04/04）
+- **成果:** 「AIを活用したアイデア発表会」（新潟県三条市）にて発表（2026年4月）
+- **こだわり:** 小学5年生が迷わず使えるクリック最小化UI · AI感想フィードバック（Gemini 2.5 Flash） · ショート動画自動編集（担当）
 - 🔗 [GitHub](https://github.com/toyama-e/sanjo_makers_note.git)
 
 ### 🏯 いさんぽJAPAN
-> 「知識がなくても日本の世界遺産を楽しめる」をコンセプトに、歴史を知るだけでなく、  
-> 実際に足を運び、記録する体験をシームレスにつなぐWebアプリ。
+> 日本の世界遺産を「知る → 行く → 記録する」でシームレスにつなぐWebアプリ
 
 - **Stack:** Next.js · FastAPI · TypeScript · Docker
-- **こだわり:** ゲーミフィケーション（バッジ機能）による継続的な体験設計
+- **成果:** Ms.Engineer卒業制作として開発・オンライン発表（2026年1月）
+- **公開:** フロントエンドをVercelにてデプロイ済み
+- **こだわり:** バッジ機能によるゲーミフィケーションで継続利用を設計
 - 🔗 [GitHub](https://github.com/toyama-e/japan-heritage-guide)
 
 ---
 
 ## 🛠 Tech Stack
 
-| 区分 | 技術 |
-|------|------|
-| Languages | TypeScript · Python · JavaScript |
-| Frameworks | Next.js · FastAPI |
-| AI / Cloud | Vertex AI (Gemini 2.5 Flash) · Google Cloud Storage |
-| Tools | Docker · Git-flow · Pytest · ffmpeg |
-| DB | PostgreSQL (Supabase) |
+**得意な技術**
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+**使用経験あり**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![GCS](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?logo=google&logoColor=white)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyama-e&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=toyama-e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 強み（看護師経験から）
+
+| 看護師時代 | エンジニアとして |
+|-----------|----------------|
+| 急変時の迅速な判断・実行 | 仕様変更・バグ対応の素早い遂行 |
+| 患者さんへの分かりやすい説明 | 非エンジニア向けUX・ドキュメント設計 |
+| チーム医療・多職種連携 | チーム開発・コミュニケーション |
+
+---
+
+## 📬 Contact
+- 💬 [お問い合わせはこちら](https://github.com/toyama-e/toyama-e/issues)
